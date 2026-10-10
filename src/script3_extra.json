@@ -1,0 +1,87 @@
+{
+  "terms": [
+    [
+      "Geiger counter",
+      "“GUY-ger counter” (not “GAY-ger”) — счётчик Гейгера"
+    ],
+    [
+      "mSv",
+      "millisievert — “MIL-ee-see-vert”; 5 mSv = “five millisieverts”"
+    ],
+    [
+      "µR/h",
+      "microroentgen per hour — “MY-kro-RENT-gen per hour”"
+    ],
+    [
+      "flight level 350",
+      "“flight level three-five-zero” — эшелон FL350"
+    ],
+    [
+      "NILRA",
+      "waypoint name — “NIL-ra”"
+    ],
+    [
+      "sanitary rules",
+      "санитарные правила (СанПиН)"
+    ],
+    [
+      "radiation safety standards",
+      "НРБ-99/2009 — read “N-R-B”"
+    ],
+    [
+      "check of working conditions",
+      "СОУТ — специальная оценка условий труда"
+    ],
+    [
+      "sample flight",
+      "контрольный полёт (обычный рейс, на котором проводят замеры)"
+    ],
+    [
+      "state dose register",
+      "ЕСКИД — единая система учёта доз"
+    ],
+    [
+      "control level",
+      "контрольный уровень (ниже предела)"
+    ],
+    [
+      "work schedule",
+      "график работы (полётов)"
+    ],
+    [
+      "European Union",
+      "ЕС; “Euratom” — “YOOR-a-tom”"
+    ],
+    [
+      "supervisor",
+      "научный руководитель"
+    ]
+  ],
+  "qa": [
+    {
+      "who": "Nikita",
+      "q": "Why do you use data from a Geiger counter if it does not measure neutrons?",
+      "a": "Our measurements only show the problem: at cruising level radiation is much higher. For the law, the dose must be calculated with a special program. This is one of our proposals."
+    },
+    {
+      "who": "Ilya",
+      "q": "So is there no regulation in Russia at all?",
+      "a": "There is a limit: 5 millisieverts a year. The problem is that the law does not say who calculates the dose and how. So nobody can check the limit for each person."
+    },
+    {
+      "who": "Ilya",
+      "q": "Why do you suggest 1 millisievert as a threshold?",
+      "a": "The same threshold is used in the European Union and in Germany. Old Russian sanitary rules also used it. Above this level, the dose should be calculated for each person."
+    },
+    {
+      "who": "Nikita",
+      "q": "Will this be expensive for airlines?",
+      "a": "Not very. A computer program can calculate the dose from flight data that airlines already have. In France, airlines use one common state system for this."
+    },
+    {
+      "who": "Ilya",
+      "q": "Who should make these changes?",
+      "a": "The sanitary rules — the Chief State Sanitary Doctor. Flight time rules — the Ministry of Transport. The check of working conditions — the Ministry of Labour. Most changes do not need new federal laws."
+    }
+  ]
+}
